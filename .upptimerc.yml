@@ -6,7 +6,6 @@ sites:
   - name: TCP Ping (209.105.201.118)
     check: "tcp-ping"
     url: 209.105.201.118
-    port: 53
   - name: SaultSteMarie.ca
     url: https://saultstemarie.ca/
   - name: Building Permit Services (apps.saultstemarie.ca)
