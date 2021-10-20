@@ -58,10 +58,10 @@
     "url": "https://saultstemarie.ca/",
     "icon": "https://favicons.githubusercontent.com/saultstemarie.ca",
     "slug": "sault-ste-marie-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
@@ -69,7 +69,9 @@
     "timeWeek": 333,
     "timeMonth": 317,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-20": 1
+    }
   },
   {
     "name": "Building Permit Services (apps.saultstemarie.ca)",
