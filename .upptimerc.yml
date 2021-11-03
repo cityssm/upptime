@@ -55,6 +55,8 @@ sites:
     url: https://saultstemarie.ca/
   - name: Building Permit Services (apps.saultstemarie.ca)
     url: https://apps.saultstemarie.ca/cityapps/
+  - name: Document Requesting Service (apps.saultstemarie.ca)
+    url: https://apps.saultstemarie.ca/cityapps/shop/products
   - name: Virtual City Hall (myfinance.saultstemarie.ca)
     url: https://myfinance.saultstemarie.ca/vch/
 
