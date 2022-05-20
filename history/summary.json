@@ -22,9 +22,9 @@
     "url": "209.105.201.122",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping-ip-9-209-105-201-122",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 43,
     "timeMonth": 42,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "TCP Ping (IP13 - 209.105.201.126)",
