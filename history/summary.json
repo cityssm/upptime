@@ -80,10 +80,10 @@
     "url": "209.105.201.126",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping-ip-13-209-105-201-126",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
@@ -91,7 +91,9 @@
     "timeWeek": 71,
     "timeMonth": 67,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-30": 1
+    }
   },
   {
     "name": "SaultSteMarie.ca",
@@ -129,9 +131,9 @@
     "url": "https://apps.saultstemarie.ca/cityapps/",
     "icon": "https://favicons.githubusercontent.com/apps.saultstemarie.ca",
     "slug": "building-permit-services-apps-saultstemarie-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "98.28%",
+    "uptimeDay": "98.23%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.11%",
@@ -141,7 +143,7 @@
     "timeMonth": 1087,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2022-07-30": 25,
+      "2022-07-30": 26,
       "2022-04-04": 791,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
@@ -160,9 +162,9 @@
     "url": "https://apps.saultstemarie.ca/cityapps/shop/products",
     "icon": "https://favicons.githubusercontent.com/apps.saultstemarie.ca",
     "slug": "document-requesting-service-apps-saultstemarie-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -172,6 +174,7 @@
     "timeMonth": 80,
     "timeYear": 74,
     "dailyMinutesDown": {
+      "2022-07-30": 0,
       "2022-04-28": 8,
       "2022-04-01": 65,
       "2022-01-03": 27,
