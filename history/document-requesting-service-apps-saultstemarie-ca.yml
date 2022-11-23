@@ -1,7 +1,7 @@
 url: https://apps.saultstemarie.ca/cityapps/shop/products
-status: up
-code: 200
-responseTime: 69
-lastUpdated: 2022-11-22T23:10:13.165Z
+status: down
+code: 502
+responseTime: 2115
+lastUpdated: 2022-11-23T19:42:18.630Z
 startTime: Wed Nov 03 2021 18:26:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
