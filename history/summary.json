@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "98.93%",
     "time": 46,
-    "timeDay": 84,
-    "timeWeek": 48,
-    "timeMonth": 48,
+    "timeDay": 28,
+    "timeWeek": 46,
+    "timeMonth": 47,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2022-12-08": 11,
@@ -35,12 +35,12 @@
     "slug": "tcp-ping-ip-9-209-105-201-122",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.54%",
     "time": 55,
-    "timeDay": 68,
+    "timeDay": 28,
     "timeWeek": 47,
     "timeMonth": 60,
     "timeYear": 55,
@@ -157,8 +157,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 46,
-    "timeDay": 80,
-    "timeWeek": 48,
+    "timeDay": 29,
+    "timeWeek": 46,
     "timeMonth": 46,
     "timeYear": 49,
     "dailyMinutesDown": {
@@ -171,15 +171,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/saultstemarie.ca.ico",
     "slug": "sault-ste-marie-ca",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
-    "time": 409,
-    "timeDay": 436,
+    "time": 408,
+    "timeDay": 235,
     "timeWeek": 283,
-    "timeMonth": 301,
+    "timeMonth": 299,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2022-10-28": 734,
@@ -209,8 +209,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.49%",
     "time": 513,
-    "timeDay": 497,
-    "timeWeek": 330,
+    "timeDay": 232,
+    "timeWeek": 325,
     "timeMonth": 343,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -226,8 +226,7 @@
       "2022-04-02": 1440,
       "2022-04-01": 94,
       "2022-01-07": 27,
-      "2022-01-03": 27,
-      "2021-12-27": 25
+      "2022-01-03": 27
     }
   },
   {
@@ -242,9 +241,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 81,
-    "timeDay": 100,
-    "timeWeek": 66,
-    "timeMonth": 84,
+    "timeDay": 46,
+    "timeWeek": 64,
+    "timeMonth": 83,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2022-11-23": 49,
@@ -266,8 +265,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 922,
-    "timeDay": 476,
-    "timeWeek": 416,
+    "timeDay": 329,
+    "timeWeek": 389,
     "timeMonth": 437,
     "timeYear": 816,
     "dailyMinutesDown": {
@@ -279,8 +278,7 @@
       "2022-02-14": 18,
       "2022-02-11": 22,
       "2022-01-07": 26,
-      "2022-01-03": 27,
-      "2021-12-27": 36
+      "2022-01-03": 27
     }
   }
 ]
