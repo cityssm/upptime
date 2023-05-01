@@ -39,10 +39,10 @@
     "url": "209.105.201.122",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-ip-9-209-105-201-122",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.56%",
     "time": 60,
@@ -51,6 +51,7 @@
     "timeMonth": 79,
     "timeYear": 65,
     "dailyMinutesDown": {
+      "2023-05-01": 0,
       "2023-04-29": 12,
       "2023-04-28": 12,
       "2023-04-27": 12,
@@ -147,8 +148,7 @@
       "2022-09-08": 35,
       "2022-09-06": 40,
       "2022-09-04": 21,
-      "2022-09-03": 19,
-      "2022-09-02": 27
+      "2022-09-03": 19
     }
   },
   {
