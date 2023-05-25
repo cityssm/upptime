@@ -1,7 +1,7 @@
 url: https://myfinance.saultstemarie.ca/vch/
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2023-05-24T23:08:45.059Z
+status: down
+code: 500
+responseTime: 24716
+lastUpdated: 2023-05-25T21:31:10.439Z
 startTime: Wed Sep 15 2021 14:16:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
