@@ -11,7 +11,7 @@
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.15%",
     "time": 50,
-    "timeDay": 32,
+    "timeDay": 28,
     "timeWeek": 30,
     "timeMonth": 37,
     "timeYear": 50,
@@ -46,7 +46,7 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.13%",
     "time": 62,
-    "timeDay": 32,
+    "timeDay": 28,
     "timeWeek": 29,
     "timeMonth": 41,
     "timeYear": 59,
@@ -66,8 +66,7 @@
       "2023-11-01": 87,
       "2023-10-13": 10,
       "2023-08-25": 12,
-      "2023-07-26": 96,
-      "2023-07-25": 15
+      "2023-07-26": 96
     }
   },
   {
@@ -82,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 50,
-    "timeDay": 32,
+    "timeDay": 28,
     "timeWeek": 29,
     "timeMonth": 37,
-    "timeYear": 50,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2024-04-05": 15,
       "2024-03-22": 30,
@@ -116,10 +115,10 @@
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.70%",
     "time": 356,
-    "timeDay": 208,
-    "timeWeek": 284,
-    "timeMonth": 282,
-    "timeYear": 362,
+    "timeDay": 246,
+    "timeWeek": 287,
+    "timeMonth": 284,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2024-07-10": 543,
       "2024-06-10": 56,
@@ -146,10 +145,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 626,
-    "timeDay": 238,
+    "timeDay": 216,
     "timeWeek": 271,
-    "timeMonth": 297,
-    "timeYear": 454,
+    "timeMonth": 295,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2024-06-10": 554,
       "2024-06-09": 786,
@@ -170,8 +169,7 @@
       "2023-09-16": 24,
       "2023-08-30": 10,
       "2023-08-28": 16,
-      "2023-07-26": 96,
-      "2023-07-25": 13
+      "2023-07-26": 96
     }
   },
   {
@@ -186,10 +184,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 78,
-    "timeDay": 51,
-    "timeWeek": 45,
+    "timeDay": 41,
+    "timeWeek": 44,
     "timeMonth": 50,
-    "timeYear": 82,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2024-04-05": 14,
       "2024-03-22": 21,
@@ -211,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/myfinance.saultstemarie.ca.ico",
     "slug": "virtual-city-hall-myfinance-saultstemarie-ca",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "98.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.72%",
-    "uptimeYear": "97.68%",
-    "time": 1404,
-    "timeDay": 421,
-    "timeWeek": 493,
-    "timeMonth": 1377,
+    "uptimeMonth": "67.14%",
+    "uptimeYear": "97.13%",
+    "time": 1403,
+    "timeDay": 365,
+    "timeWeek": 368,
+    "timeMonth": 1374,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-07-23": 132,
+      "2024-07-24": 134,
+      "2024-07-23": 2880,
       "2024-07-22": 2880,
       "2024-07-21": 2880,
       "2024-07-20": 2880,
@@ -246,8 +245,7 @@
       "2023-08-28": 15,
       "2023-08-21": 103,
       "2023-07-27": 11,
-      "2023-07-26": 96,
-      "2023-07-25": 1
+      "2023-07-26": 96
     }
   }
 ]
