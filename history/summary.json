@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping-www-209-105-201-118",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "0.01%",
+    "uptime": "99.12%",
+    "uptimeDay": "45.21%",
     "uptimeWeek": "67.04%",
     "uptimeMonth": "92.26%",
     "uptimeYear": "98.50%",
     "time": 49,
-    "timeDay": 32,
-    "timeWeek": 54,
+    "timeDay": 30,
+    "timeWeek": 52,
     "timeMonth": 38,
     "timeYear": 49,
     "dailyMinutesDown": {
@@ -48,10 +48,10 @@
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.52%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "98.29%",
     "time": 61,
-    "timeDay": 28,
+    "timeDay": 40,
     "timeWeek": 50,
     "timeMonth": 44,
     "timeYear": 59,
@@ -91,7 +91,7 @@
     "uptimeYear": "99.38%",
     "time": 48,
     "timeDay": 28,
-    "timeWeek": 50,
+    "timeWeek": 48,
     "timeMonth": 38,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -109,8 +109,7 @@
       "2023-11-01": 96,
       "2023-10-14": 10,
       "2023-09-13": 10,
-      "2023-08-30": 10,
-      "2023-08-28": 16
+      "2023-08-30": 10
     }
   },
   {
@@ -120,14 +119,14 @@
     "slug": "sault-ste-marie-ca",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "45.22%",
     "uptimeWeek": "67.04%",
     "uptimeMonth": "92.22%",
     "uptimeYear": "99.06%",
     "time": 375,
-    "timeDay": 340,
-    "timeWeek": 372,
-    "timeMonth": 654,
+    "timeDay": 319,
+    "timeWeek": 362,
+    "timeMonth": 656,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2024-08-26": 858,
@@ -160,8 +159,8 @@
     "uptimeMonth": "90.98%",
     "uptimeYear": "98.77%",
     "time": 621,
-    "timeDay": 289,
-    "timeWeek": 360,
+    "timeDay": 298,
+    "timeWeek": 355,
     "timeMonth": 317,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -187,8 +186,7 @@
       "2023-10-25": 22,
       "2023-10-14": 8,
       "2023-09-16": 24,
-      "2023-08-30": 10,
-      "2023-08-28": 16
+      "2023-08-30": 10
     }
   },
   {
@@ -203,8 +201,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
     "time": 77,
-    "timeDay": 48,
-    "timeWeek": 68,
+    "timeDay": 41,
+    "timeWeek": 64,
     "timeMonth": 57,
     "timeYear": 80,
     "dailyMinutesDown": {
@@ -220,8 +218,7 @@
       "2023-11-01": 86,
       "2023-10-28": 16,
       "2023-10-14": 8,
-      "2023-08-30": 9,
-      "2023-08-28": 15
+      "2023-08-30": 9
     }
   },
   {
@@ -233,12 +230,12 @@
     "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.96%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "95.69%",
-    "time": 1490,
-    "timeDay": 280,
-    "timeWeek": 483,
-    "timeMonth": 1914,
+    "time": 1446,
+    "timeDay": 359,
+    "timeWeek": 465,
+    "timeMonth": 1915,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2024-08-14": 33,
@@ -267,8 +264,7 @@
       "2023-10-14": 8,
       "2023-10-10": 12,
       "2023-09-26": 34,
-      "2023-08-30": 9,
-      "2023-08-28": 15
+      "2023-08-30": 9
     }
   }
 ]
