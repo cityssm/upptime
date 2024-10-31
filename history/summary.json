@@ -11,9 +11,9 @@
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.38%",
     "time": 49,
-    "timeDay": 33,
+    "timeDay": 81,
     "timeWeek": 46,
-    "timeMonth": 49,
+    "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2024-10-18": 621,
@@ -36,8 +36,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1341,
       "2023-12-13": 10,
-      "2023-11-02": 10,
-      "2023-11-01": 99
+      "2023-11-02": 10
     }
   },
   {
@@ -51,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
-    "time": 58,
-    "timeDay": 33,
-    "timeWeek": 48,
-    "timeMonth": 53,
+    "time": 57,
+    "timeDay": 81,
+    "timeWeek": 47,
+    "timeMonth": 54,
     "timeYear": 52,
     "dailyMinutesDown": {
       "2024-08-03": 53,
@@ -74,8 +73,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1341,
       "2023-12-13": 49,
-      "2023-11-02": 9,
-      "2023-11-01": 87
+      "2023-11-02": 9
     }
   },
   {
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 49,
-    "timeDay": 32,
+    "timeDay": 81,
     "timeWeek": 46,
-    "timeMonth": 49,
+    "timeMonth": 50,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2024-08-03": 52,
@@ -105,8 +103,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1341,
       "2023-12-13": 9,
-      "2023-11-04": 10,
-      "2023-11-01": 96
+      "2023-11-04": 10
     }
   },
   {
@@ -120,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.94%",
-    "time": 377,
-    "timeDay": 282,
-    "timeWeek": 319,
-    "timeMonth": 334,
+    "time": 376,
+    "timeDay": 448,
+    "timeWeek": 315,
+    "timeMonth": 337,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2024-10-18": 620,
@@ -140,8 +137,7 @@
       "2024-03-02": 11,
       "2024-02-05": 79,
       "2024-02-02": 17,
-      "2023-12-13": 9,
-      "2023-11-01": 96
+      "2023-12-13": 9
     }
   },
   {
@@ -150,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.saultstemarie.ca.ico",
     "slug": "building-permit-services-apps-saultstemarie-ca",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 517,
-    "timeDay": 324,
-    "timeWeek": 334,
-    "timeMonth": 362,
-    "timeYear": 396,
+    "timeDay": 483,
+    "timeWeek": 342,
+    "timeMonth": 366,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2024-09-08": 13,
       "2024-08-06": 761,
@@ -179,8 +175,7 @@
       "2023-12-20": 15,
       "2023-12-13": 8,
       "2023-12-10": 54,
-      "2023-11-04": 10,
-      "2023-11-01": 160
+      "2023-11-04": 10
     }
   },
   {
@@ -195,9 +190,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.91%",
     "time": 77,
-    "timeDay": 42,
-    "timeWeek": 61,
-    "timeMonth": 64,
+    "timeDay": 95,
+    "timeWeek": 60,
+    "timeMonth": 65,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2024-10-04": 149,
@@ -209,8 +204,7 @@
       "2024-02-02": 18,
       "2023-12-20": 14,
       "2023-12-13": 8,
-      "2023-11-04": 9,
-      "2023-11-01": 86
+      "2023-11-04": 9
     }
   },
   {
@@ -225,9 +219,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "95.70%",
     "time": 1471,
-    "timeDay": 512,
-    "timeWeek": 483,
-    "timeMonth": 1102,
+    "timeDay": 534,
+    "timeWeek": 467,
+    "timeMonth": 1085,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-10-20": 14,
@@ -253,8 +247,7 @@
       "2024-02-05": 80,
       "2024-02-02": 17,
       "2023-12-19": 79,
-      "2023-11-04": 9,
-      "2023-11-01": 86
+      "2023-11-04": 9
     }
   }
 ]
