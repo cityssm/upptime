@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.36%",
     "time": 49,
-    "timeDay": 41,
-    "timeWeek": 70,
+    "timeDay": 43,
+    "timeWeek": 63,
     "timeMonth": 61,
     "timeYear": 50,
     "dailyMinutesDown": {
@@ -26,8 +26,7 @@
       "2025-07-17": 42,
       "2025-07-13": 838,
       "2025-07-12": 1222,
-      "2025-04-12": 839,
-      "2025-03-10": 167
+      "2025-04-12": 839
     }
   },
   {
@@ -42,8 +41,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 58,
-    "timeDay": 42,
-    "timeWeek": 71,
+    "timeDay": 43,
+    "timeWeek": 64,
     "timeMonth": 66,
     "timeYear": 56,
     "dailyMinutesDown": {
@@ -65,8 +64,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 49,
-    "timeDay": 40,
-    "timeWeek": 70,
+    "timeDay": 42,
+    "timeWeek": 63,
     "timeMonth": 61,
     "timeYear": 50,
     "dailyMinutesDown": {
@@ -90,11 +89,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.38%",
     "time": 370,
-    "timeDay": 295,
-    "timeWeek": 484,
-    "timeMonth": 435,
+    "timeDay": 285,
+    "timeWeek": 427,
+    "timeMonth": 434,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-26": 12,
@@ -105,8 +104,7 @@
       "2025-08-08": 100,
       "2025-07-13": 838,
       "2025-07-12": 1222,
-      "2025-04-12": 838,
-      "2025-03-10": 167
+      "2025-04-12": 838
     }
   },
   {
@@ -115,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.saultstemarie.ca.ico",
     "slug": "building-permit-services-apps-saultstemarie-ca",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "95.78%",
+    "uptime": "99.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 367,
-    "timeDay": 269,
-    "timeWeek": 411,
-    "timeMonth": 420,
-    "timeYear": 372,
+    "timeDay": 336,
+    "timeWeek": 381,
+    "timeMonth": 421,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2026-03-08": 61,
       "2026-01-17": 68,
@@ -149,8 +147,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
     "time": 110,
-    "timeDay": 61,
-    "timeWeek": 87,
+    "timeDay": 62,
+    "timeWeek": 79,
     "timeMonth": 80,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -178,8 +176,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1121,
-    "timeDay": 592,
-    "timeWeek": 539,
+    "timeDay": 368,
+    "timeWeek": 505,
     "timeMonth": 528,
     "timeYear": 1177,
     "dailyMinutesDown": {
