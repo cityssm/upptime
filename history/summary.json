@@ -164,10 +164,10 @@
     "slug": "virtual-city-hall-myfinance-saultstemarie-ca",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.83%",
     "time": 1802,
     "timeDay": 39835,
     "timeWeek": 13212,
@@ -185,7 +185,7 @@
       "2026-03-20": 60,
       "2026-04-05": 42,
       "2026-05-01": 55,
-      "2026-10-04": 0
+      "2026-10-04": 130
     }
   }
 ]
